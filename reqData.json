@@ -1,0 +1,19 @@
+[Object: null prototype] {
+    password: 's',
+    accountnumber: '---',
+    repetpassword: 's',
+    accountname: '---',
+    accounttype: 'fieldexpert',
+    checked: '-1',
+    bankname: '---',
+    username: 's'
+  } {
+    fieldname: 'photo1',
+    originalname: 'photo1.jpg',
+    encoding: 'binary',
+    mimetype: 'application/octet-stream',
+    destination: 'uploads/',
+    filename: '2944e20c42e9125a0d7fce5bfe611023',
+    path: 'uploads\\2944e20c42e9125a0d7fce5bfe611023',
+    size: 15018
+  }
